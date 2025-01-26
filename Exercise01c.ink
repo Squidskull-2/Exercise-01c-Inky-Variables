@@ -40,8 +40,8 @@ Your preparations were not strong enough to prevent the savage beasts from teari
 "It'll be different this year," you told the others. You, placing last in crop profits, get to choose your crops first this season. 
 You turn to Farmer John, the man in charge of Apple Blossom Farm, and say,
 
-* ["I'm ready for this season! I'm feeling pretty good about my options this time around."] -> nice_choice
-* ["Farmer John, let today mark the day you regret your laughter. I'm ready.] -> mean_choice
+* "I'm ready for this season! I'm feeling pretty good about my options this time around." -> nice_choice
+* "Farmer John, let today mark the day you regret your laughter. I'm ready." -> mean_choice
 
 == nice_choice ==
 ~ kind = true
